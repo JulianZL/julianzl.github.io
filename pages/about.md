@@ -1,22 +1,20 @@
 ---
 layout: page
-title: Zhuang Ma
-description: Zhuang Ma的个人简介。
-keywords: Zhuang Ma, 马壮
+title: Liang Zhu
+description: Liang Zhu的个人简介。
+keywords: Liang Zhu, JulianZL
 permalink: /about/
 ---
 
-**Software Engineer at [Sogou, Inc.](http://www.sogou.com)**
+**System Engineer at [Marvell](http://www.marvell.com)**
 
-Beijing City, China \| Computer Software
+Shanghai, China
   
-*Education:* Wuhan Institute of Technology
+*Education:* Bachelor of EE, PhD of Phys
 
-scholar, CS/IT
+*Contact:* `disp ('Liang.Zhu' + '@' + 'marvell.com')  %Matlab`
 
-*Contact:* `print '%s@%s' % ('ChumpMa', 'gmail.com')  #via Python`
-
-*Social:*  [github](http://github.com/mzlogin) \| [linkedin](http://www.linkedin.com/in/mazhuang) \| [weibo](http://weibo.com/mzlogin) \| [douban](http://www.douban.com/people/freedim/) \| [blog](http://mazhuang.org)
+*Social:*  [github](http://github.com/julianzl) \| [linkedin](http://www.linkedin.com/in/julianzl)
     
 ```c++
 #include <iostream>
