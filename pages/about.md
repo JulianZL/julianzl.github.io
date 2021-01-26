@@ -12,4 +12,4 @@ permalink: /about/
 
 *Contact:* `disp ('Liang.Zhu' + '@' + 'marvell.com')  %Matlab`
 
-*Social:*  [github](http://github.com/julianzl) \| [linkedin](http://www.linkedin.com/in/julianzl
+*Social:*  [github](http://github.com/julianzl) \| [linkedin](http://www.linkedin.com/in/julianzl)
